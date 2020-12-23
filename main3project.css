@@ -1,0 +1,62 @@
+html, body, div, p
+{
+  margin:0; padding:0;
+}
+body {
+  background-color:38a2be2;
+  background-image: url(images/pinkzebra.jpeg);
+  background-position: top left;
+  background-repeat: repeat;
+}
+
+a {
+  color: #ffffff;
+  margin: 0 0 20px 0;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.nav-container
+{
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  background-color: #8B4513;
+}
+
+h1 {
+  color: #ffffff;
+  margin: 65px 0 5px 0;
+  text-align: center;
+  font-size: 55px;
+  font-weight: bold;
+}
+p {
+  color: #ffffff;
+  margin: 0 0 20px 0;
+  text-align: center;
+  font-size: 16px; 
+}
+h2 {
+  color: #ffffff;
+}
+ul {
+  color: #ffffff;   
+}
+.nav3-container
+{ 
+  padding: 0 20px o 20px;
+}
+h3 {
+  color: #ffffff;  
+  margin: 0 20px 0 20px;
+}
+ol {
+  color: #ffffff;   
+}
+.nav2-container
+{ 
+  padding: 0 20px o 20px;
+}
+
+
+
